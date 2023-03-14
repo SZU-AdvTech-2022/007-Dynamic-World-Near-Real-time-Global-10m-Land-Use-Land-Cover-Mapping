@@ -1,0 +1,7 @@
+@article{REPO-007,
+    author = "Brown, C.F. and Brumby, S.P. and Guzder-Williams, B. et al",
+    journal = "Scientific Data",
+    title = "{Dynamic World, Near Real-time Global 10m Land Use Land Cover Mapping}",
+    volume = "9",
+    year = "2022"
+}
